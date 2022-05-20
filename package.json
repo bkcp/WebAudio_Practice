@@ -1,0 +1,29 @@
+{
+  "name": "webaudio_practice",
+  "version": "1.0.0",
+  "description": "Learning how to use WebAudio Api",
+  "exports": "./index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=14.16"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkcp/WebAudio_Practice.git"
+  },
+  "keywords": [
+    "bkcp"
+  ],
+  "author": "bkcp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkcp/WebAudio_Practice/issues"
+  },
+  "homepage": "https://github.com/bkcp/WebAudio_Practice#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
